@@ -1,0 +1,1 @@
+This is an Assignment 14 on Memory Managment and IDisponsible in a Custom Collection.

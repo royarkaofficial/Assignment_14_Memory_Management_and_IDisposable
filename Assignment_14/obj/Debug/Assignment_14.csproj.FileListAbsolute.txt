@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-9\Assignment_14\Assignment_14\bin\Debug\Assignment_14.exe.config
+D:\Mphasis-B2\Day-9\Assignment_14\Assignment_14\bin\Debug\Assignment_14.exe
+D:\Mphasis-B2\Day-9\Assignment_14\Assignment_14\bin\Debug\Assignment_14.pdb
+D:\Mphasis-B2\Day-9\Assignment_14\Assignment_14\obj\Debug\Assignment_14.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-9\Assignment_14\Assignment_14\obj\Debug\Assignment_14.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-9\Assignment_14\Assignment_14\obj\Debug\Assignment_14.exe
+D:\Mphasis-B2\Day-9\Assignment_14\Assignment_14\obj\Debug\Assignment_14.pdb
